@@ -9,5 +9,4 @@ Kullanılan kaynaklar:
 - Opencv(4.5.1.48)
 - PIL
 - Numpy
-- Pillow
 - Tkinter
